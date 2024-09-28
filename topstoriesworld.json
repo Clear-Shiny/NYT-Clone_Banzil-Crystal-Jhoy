@@ -1,0 +1,2335 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+  "section": "World News",
+  "last_updated": "2024-09-27T12:34:07-04:00",
+  "num_results": 37,
+  "results": [
+    {
+      "section": "",
+      "subsection": "",
+      "title": "Live Updates: Israel Strikes Hezbollah Stronghold in Attempt to Kill Leader",
+      "abstract": "Israeli officials say the country’s warplanes destroyed an underground bunker in a residential area after receiving information that the group’s leader, Hassan Nasrallah, was convening a meeting there. Several apartment buildings were flattened.",
+      "url": "https://www.nytimes.com/live/2024/09/27/world/israel-lebanon-hezbollah-hamas",
+      "uri": "nyt://promo/a7bbfbde-a114-5e6a-ac83-e10d8414c220",
+      "byline": "",
+      "item_type": "Promo",
+      "updated_date": "2024-09-27T22:09:04-04:00",
+      "created_date": "2024-09-27T05:56:18-04:00",
+      "published_date": "2024-09-27T05:56:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-promo5p/27mideast-crisis-carousel-dome-mhkw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jalaa Marey/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-promo5p/27mideast-crisis-carousel-dome-mhkw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jalaa Marey/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-promo5p/27mideast-crisis-carousel-dome-mhkw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jalaa Marey/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Inside the Lebanese Valley Where Israel Is Bombarding Hezbollah",
+      "abstract": "The Bekaa Valley, a Hezbollah bastion in eastern Lebanon, had mostly been spared over 11 months of war. But The New York Times saw widespread devastation there after intense Israeli airstrikes this week.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/bekaa-valley-lebanon-hezbollah.html",
+      "uri": "nyt://article/54dc2dc8-1b8b-5f34-9d2e-0815d0250106",
+      "byline": "By Christina Goldbaum, Hwaida Saad and Diego Ibarra Sanchez",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T21:47:41-04:00",
+      "created_date": "2024-09-27T05:09:55-04:00",
+      "published_date": "2024-09-27T05:09:55-04:00",
+      "material_type_facet": "",
+      "kicker": "Lebanon Dispatch",
+      "des_facet": [
+        "War and Armed Conflicts",
+        "Iran-Israel Proxy Conflict",
+        "Civilian Casualties",
+        "Hospitals",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Bekaa Valley (Lebanon)",
+        "Lebanon",
+        "Israel"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27lebanon-dispatch-09-vjmz-copy/27lebanon-dispatch-09-vjmz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A man surveys the destruction left by an Israeli airstrike in Baalbek, Lebanon, on Wednesday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27lebanon-dispatch-09-vjmz-copy/27lebanon-dispatch-09-vjmz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A man surveys the destruction left by an Israeli airstrike in Baalbek, Lebanon, on Wednesday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27lebanon-dispatch-09-vjmz-copy/27lebanon-dispatch-09-vjmz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A man surveys the destruction left by an Israeli airstrike in Baalbek, Lebanon, on Wednesday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "The Wily Spy Who Risked His Life to Meet North Korea’s Secretive Leader",
+      "abstract": "Park Chae-so was so successful in infiltrating the North that Kim Jong-il, the enigmatic ruler, once gifted him blueberry wine. So why was the celebrated undercover agent later jailed by South Korea?",
+      "url": "https://www.nytimes.com/2024/09/27/world/asia/south-north-korea-kim-jong-il-park-chae-so.html",
+      "uri": "nyt://article/ac70bb10-b16e-5a05-ad40-cc57c75d51a7",
+      "byline": "By Choe Sang-Hun",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T09:23:08-04:00",
+      "created_date": "2024-09-27T05:00:46-04:00",
+      "published_date": "2024-09-27T05:00:46-04:00",
+      "material_type_facet": "",
+      "kicker": "The Global Profile",
+      "des_facet": [
+        "Classified Information and State Secrets",
+        "Politics and Government",
+        "Espionage and Intelligence Services",
+        "Korean War",
+        "International Relations"
+      ],
+      "org_facet": [
+        "Samsung Group",
+        "Workers' Party of Korea",
+        "Ministry of State Security of the People's Republic of China"
+      ],
+      "per_facet": [
+        "Jang Song-Thaek",
+        "Kim Dae Jung",
+        "Kim Jong Il",
+        "Kim Jong-un"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/03/multimedia/00skorea-profile-park-phqv/00skorea-profile-park-phqv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Whenever I visited the North, I knew my life was on the line,” said Park Chae-so, a South Korean spy who met with the then-leader of North Korea, Kim Jong-il.",
+          "copyright": "Woohae Cho for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/03/multimedia/00skorea-profile-park-phqv/00skorea-profile-park-phqv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Whenever I visited the North, I knew my life was on the line,” said Park Chae-so, a South Korean spy who met with the then-leader of North Korea, Kim Jong-il.",
+          "copyright": "Woohae Cho for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/03/multimedia/00skorea-profile-park-phqv/00skorea-profile-park-phqv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Whenever I visited the North, I knew my life was on the line,” said Park Chae-so, a South Korean spy who met with the then-leader of North Korea, Kim Jong-il.",
+          "copyright": "Woohae Cho for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Pope Francis Is Met With Anger Over Sexual Abuse on Visit to Belgium",
+      "abstract": "During a trip to Luxembourg and Belgium, Francis spoke with 15 people who were abused by Roman Catholic clergy.",
+      "url": "https://www.nytimes.com/2024/09/27/world/europe/pope-francis-belgium-sex-abuse.html",
+      "uri": "nyt://article/c3a3fb76-50db-54cb-8861-5d4f2f594973",
+      "byline": "By Jenny Gross and Emma Bubola",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T17:49:25-04:00",
+      "created_date": "2024-09-27T05:20:20-04:00",
+      "published_date": "2024-09-27T05:20:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sex Crimes",
+        "Child Abuse and Neglect",
+        "Popes",
+        "Priests",
+        "Clergy"
+      ],
+      "org_facet": [
+        "Roman Catholic Church"
+      ],
+      "per_facet": [
+        "Francis"
+      ],
+      "geo_facet": [
+        "Belgium"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27belgium-pope-zgpf/27belgium-pope-zgpf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pope Francis met with King Philippe, second from right, and Queen Mathilde of Belgium, left, in Brussels on Friday. He was also met with survivors of church sexual abuse.",
+          "copyright": "Andrew Medichini/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27belgium-pope-zgpf/27belgium-pope-zgpf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pope Francis met with King Philippe, second from right, and Queen Mathilde of Belgium, left, in Brussels on Friday. He was also met with survivors of church sexual abuse.",
+          "copyright": "Andrew Medichini/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27belgium-pope-zgpf/27belgium-pope-zgpf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pope Francis met with King Philippe, second from right, and Queen Mathilde of Belgium, left, in Brussels on Friday. He was also met with survivors of church sexual abuse.",
+          "copyright": "Andrew Medichini/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Westminster Abbey’s Brontë Plaque Had a Typo for 85 Years. It’s Fixed Now.",
+      "abstract": "Punctuation delayed, but not denied: A memorial to Charlotte, Emily and Anne Brontë at Poets’ Corner in the celebrated London church finally gets its accent marks.",
+      "url": "https://www.nytimes.com/2024/09/27/world/europe/westminster-abbey-bronte-plaque-accent-marks.html",
+      "uri": "nyt://article/df6ed358-0649-5495-812b-ce7b53d12f77",
+      "byline": "By Lynsey Chutel",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T22:17:53-04:00",
+      "created_date": "2024-09-27T11:13:11-04:00",
+      "published_date": "2024-09-27T11:13:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Monuments and Memorials (Structures)",
+        "Poetry and Poets",
+        "Writing and Writers",
+        "Books and Literature",
+        "Names, Personal"
+      ],
+      "org_facet": [
+        "Westminster Abbey (London)"
+      ],
+      "per_facet": [
+        "Bronte, Charlotte",
+        "Bronte, Emily",
+        "Bronte, Anne"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27uk-bronte-01-kptw/27uk-bronte-01-kptw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A conservator adding the finishing touches to the Brontë sisters’ plaque at Poets’ Corner in Westminster Abbey in London on Thursday.",
+          "copyright": "Aaron Chown/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27uk-bronte-01-kptw/27uk-bronte-01-kptw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A conservator adding the finishing touches to the Brontë sisters’ plaque at Poets’ Corner in Westminster Abbey in London on Thursday.",
+          "copyright": "Aaron Chown/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27uk-bronte-01-kptw/27uk-bronte-01-kptw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A conservator adding the finishing touches to the Brontë sisters’ plaque at Poets’ Corner in Westminster Abbey in London on Thursday.",
+          "copyright": "Aaron Chown/Press Association, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "What’s at Stake in Austria’s General Election",
+      "abstract": "Austrians will head to the polls on Sunday to elect a new Parliament, with the Freedom Party in position to potentially form a far-right government for the first time since World War II.",
+      "url": "https://www.nytimes.com/2024/09/27/world/europe/austria-general-election-freedom-party.html",
+      "uri": "nyt://article/3f434785-de8e-5103-bfd0-3aa326b95b3a",
+      "byline": "By Eve Sampson",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T00:00:12-04:00",
+      "created_date": "2024-09-27T00:00:12-04:00",
+      "published_date": "2024-09-27T00:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "International Relations",
+        "Right-Wing Extremism and Alt-Right",
+        "Elections",
+        "Polls and Public Opinion",
+        "Legislatures and Parliaments"
+      ],
+      "org_facet": [
+        "Austrian People's Party",
+        "Freedom Party of Austria",
+        "European Union"
+      ],
+      "per_facet": [
+        "Kurz, Sebastian (1986- )"
+      ],
+      "geo_facet": [
+        "Austria"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/arts/27austria-election-explainer/27austria-election-explainer-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campaign posters for the People’s Party and the Freedom Party in Vienna.",
+          "copyright": "Thomas Kronsteiner/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/arts/27austria-election-explainer/27austria-election-explainer-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campaign posters for the People’s Party and the Freedom Party in Vienna.",
+          "copyright": "Thomas Kronsteiner/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/arts/27austria-election-explainer/27austria-election-explainer-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Campaign posters for the People’s Party and the Freedom Party in Vienna.",
+          "copyright": "Thomas Kronsteiner/Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Deal to Reopen Libya’s Central Bank Eases Fears of Renewed Conflict",
+      "abstract": "A standoff over control of the bank had destabilized the country’s economy and raised the prospect of fresh fighting between Libya’s eastern and western factions.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/libya-central-bank-reopen-agreement.html",
+      "uri": "nyt://article/5e2bfb06-d8e4-5f49-9e69-102d8f643bf3",
+      "byline": "By Vivian Yee and Islam Al-Atrash",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T12:02:03-04:00",
+      "created_date": "2024-09-27T08:42:33-04:00",
+      "published_date": "2024-09-27T08:42:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Banking and Financial Institutions",
+        "Appointments and Executive Changes",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Central Bank of Libya"
+      ],
+      "per_facet": [
+        "Issa, Naji",
+        "Dbeiba, Abdul Hamid"
+      ],
+      "geo_facet": [
+        "Libya"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27libya-centralbank-ctbk/27libya-centralbank-ctbk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At a bank in Misrata, in western Libya, in August. The central bank dispute had frozen the banking system for most Libyans.",
+          "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27libya-centralbank-ctbk/27libya-centralbank-ctbk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At a bank in Misrata, in western Libya, in August. The central bank dispute had frozen the banking system for most Libyans.",
+          "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27libya-centralbank-ctbk/27libya-centralbank-ctbk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At a bank in Misrata, in western Libya, in August. The central bank dispute had frozen the banking system for most Libyans.",
+          "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "Japan’s Governing Party Selects New Prime Minister",
+      "abstract": "Shigeru Ishiba, a former defense minister known for his plainspoken opinions, will replace Fumio Kishida next week.",
+      "url": "https://www.nytimes.com/2024/09/27/world/asia/japan-new-prime-minister-shigeru-ishiba.html",
+      "uri": "nyt://article/e59598d4-318d-5172-931b-226f290018fb",
+      "byline": "By Motoko Rich and Hisako Ueno",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:42:00-04:00",
+      "created_date": "2024-09-27T02:30:15-04:00",
+      "published_date": "2024-09-27T02:30:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Elections"
+      ],
+      "org_facet": [
+        "Liberal Democratic Party (Japan)"
+      ],
+      "per_facet": [
+        "Ishiba, Shigeru",
+        "Takaichi, Sanae"
+      ],
+      "geo_facet": [
+        "Japan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27japan-election-jhqc/27japan-election-jhqc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shigeru Ishiba after he was selected as the new head of the Liberal Democratic Party in Tokyo on Friday.",
+          "copyright": "Pool photo by Hiro Komae"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27japan-election-jhqc/27japan-election-jhqc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shigeru Ishiba after he was selected as the new head of the Liberal Democratic Party in Tokyo on Friday.",
+          "copyright": "Pool photo by Hiro Komae"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27japan-election-jhqc/27japan-election-jhqc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shigeru Ishiba after he was selected as the new head of the Liberal Democratic Party in Tokyo on Friday.",
+          "copyright": "Pool photo by Hiro Komae"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "This Is What Can Land You in Jail for Sedition in Hong Kong",
+      "abstract": "Three men were the first to be convicted under the city’s recently expanded national security law, which has greatly curtailed political speech.",
+      "url": "https://www.nytimes.com/2024/09/27/world/asia/hong-kong-article-23-sedition.html",
+      "uri": "nyt://article/7fe988d5-4d0c-56ad-8434-8724b59ef9b7",
+      "byline": "By David Pierson and Tiffany May",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:42:32-04:00",
+      "created_date": "2024-09-27T00:01:15-04:00",
+      "published_date": "2024-09-27T00:01:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Treason and Sedition",
+        "Law and Legislation",
+        "Decisions and Verdicts",
+        "Social Media",
+        "Freedom of Speech and Expression"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Hong Kong",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/00HongKong-Sedition-vjhb/00HongKong-Sedition-vjhb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Visitors watching a video of Xi Jinping at the National Security Exhibition in Hong Kong Museum of History in August.",
+          "copyright": "Anthony Kwan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/00HongKong-Sedition-vjhb/00HongKong-Sedition-vjhb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Visitors watching a video of Xi Jinping at the National Security Exhibition in Hong Kong Museum of History in August.",
+          "copyright": "Anthony Kwan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/00HongKong-Sedition-vjhb/00HongKong-Sedition-vjhb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Visitors watching a video of Xi Jinping at the National Security Exhibition in Hong Kong Museum of History in August.",
+          "copyright": "Anthony Kwan for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "Myanmar’s Military Asks Rebels to Stop Fighting and Join in Elections",
+      "abstract": "Though the offer was quickly rejected by several commanders of the opposition forces, it was still seen as a significant development in the three-year civil war.",
+      "url": "https://www.nytimes.com/2024/09/27/world/asia/myanmar-military.html",
+      "uri": "nyt://article/12e8ee3e-11f0-59a4-ab48-028c9b18d141",
+      "byline": "By Sui-Lee Wee",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T21:09:49-04:00",
+      "created_date": "2024-09-27T01:04:24-04:00",
+      "published_date": "2024-09-27T01:04:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "War and Armed Conflicts",
+        "Coups D'Etat and Attempted Coups D'Etat",
+        "Elections",
+        "Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Myanmar"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27myanmar-01-lwhm/27myanmar-01-lwhm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myanmar’s junta chief military leader, Min Aung Hlaing, during a ceremony in Naypyidaw to mark the country’s Armed Forces Day in March.",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27myanmar-01-lwhm/27myanmar-01-lwhm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myanmar’s junta chief military leader, Min Aung Hlaing, during a ceremony in Naypyidaw to mark the country’s Armed Forces Day in March.",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27myanmar-01-lwhm/27myanmar-01-lwhm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Myanmar’s junta chief military leader, Min Aung Hlaing, during a ceremony in Naypyidaw to mark the country’s Armed Forces Day in March.",
+          "copyright": "Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "200 Clashes a Day as Russia Races to Break Ukrainian Strongholds",
+      "abstract": "With fall approaching, Ukraine says its forces in the eastern Donetsk region are facing battle more frequently than they have in months.",
+      "url": "https://www.nytimes.com/2024/09/26/world/europe/ukraine-eastern-front-line.html",
+      "uri": "nyt://article/3e845638-317c-5f4b-816a-62a468f9e622",
+      "byline": "By Marc Santora and Nicole Tung",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T08:58:53-04:00",
+      "created_date": "2024-09-26T00:01:34-04:00",
+      "published_date": "2024-09-26T00:01:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Ukraine",
+        "Russia",
+        "Chasiv Yar (Ukraine)",
+        "Vuhledar (Ukraine)",
+        "Donbas (Ukraine)",
+        "Donetsk (Ukraine)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24Ukraine-Eastern-Front-promo/24Ukraine-Eastern-Front-Top-gvkt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicole Tung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24Ukraine-Eastern-Front-promo/24Ukraine-Eastern-Front-Top-gvkt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicole Tung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24Ukraine-Eastern-Front-promo/24Ukraine-Eastern-Front-promo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicole Tung for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "After 44 Years on Death Row, Japanese Man Is Exonerated at Age 88",
+      "abstract": "Iwao Hakamada is believed to be the world’s longest-serving inmate given a death sentence.",
+      "url": "https://www.nytimes.com/2024/09/26/world/asia/japan-death-row-exonerated.html",
+      "uri": "nyt://article/586c41bf-7458-555a-8300-0d017edc0f4d",
+      "byline": "By Motoko Rich and Hisako Ueno",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T06:41:24-04:00",
+      "created_date": "2024-09-26T05:55:56-04:00",
+      "published_date": "2024-09-26T05:55:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Capital Punishment",
+        "Decisions and Verdicts",
+        "False Arrests, Convictions and Imprisonments"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Japan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26japan-inmate1-zgft/26japan-inmate1-zgft-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iwao Hakamada going for a walk with a supporter in Hamamatsu, Japan, on Wednesday. He was released from prison 10 years ago and granted a retrial. ",
+          "copyright": "Kyodo News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26japan-inmate1-zgft/26japan-inmate1-zgft-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iwao Hakamada going for a walk with a supporter in Hamamatsu, Japan, on Wednesday. He was released from prison 10 years ago and granted a retrial. ",
+          "copyright": "Kyodo News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26japan-inmate1-zgft/26japan-inmate1-zgft-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iwao Hakamada going for a walk with a supporter in Hamamatsu, Japan, on Wednesday. He was released from prison 10 years ago and granted a retrial. ",
+          "copyright": "Kyodo News, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "First It Was Lynch Mobs. Now Police Kill Pakistanis Accused of Blasphemy.",
+      "abstract": "The deaths of two men have reverberated across Pakistan, where the charge of insulting Islam has long been a sensitive issue.",
+      "url": "https://www.nytimes.com/2024/09/26/world/asia/pakistan-blasphemy.html",
+      "uri": "nyt://article/5e3b0586-d44a-53cd-84d0-44f029acc8fc",
+      "byline": "By Zia ur-Rehman",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T08:56:00-04:00",
+      "created_date": "2024-09-26T00:01:16-04:00",
+      "published_date": "2024-09-26T00:01:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Muslims and Islam",
+        "Blasphemy",
+        "Capital Punishment",
+        "Police",
+        "Police Brutality, Misconduct and Shootings",
+        "Vigilantes",
+        "Lynching",
+        "Demonstrations, Protests and Riots",
+        "Human Rights and Human Rights Violations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Pakistan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25pakistan-blasphemy-01-qpbw/25pakistan-blasphemy-01-qpbw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, the mother, wife and daughter of Shah Nawaz. The family has accused the police in southern Pakistan of killing Mr. Nawaz, a doctor who was accused of blasphemy.",
+          "copyright": "Allah Bux/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25pakistan-blasphemy-01-qpbw/25pakistan-blasphemy-01-qpbw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, the mother, wife and daughter of Shah Nawaz. The family has accused the police in southern Pakistan of killing Mr. Nawaz, a doctor who was accused of blasphemy.",
+          "copyright": "Allah Bux/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25pakistan-blasphemy-01-qpbw/25pakistan-blasphemy-01-qpbw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, the mother, wife and daughter of Shah Nawaz. The family has accused the police in southern Pakistan of killing Mr. Nawaz, a doctor who was accused of blasphemy.",
+          "copyright": "Allah Bux/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "As a Finnish Zoo Returns Pandas to China, It Blames Costs, Not Geopolitics",
+      "abstract": "Two pandas are heading back to China eight years early amid lower-than-hoped-for visitor numbers at a zoo in rural Finland, and after the pair didn’t produce a cub.",
+      "url": "https://www.nytimes.com/2024/09/26/world/europe/finland-china-pandas-return.html",
+      "uri": "nyt://article/1f7f508f-894e-572c-b24d-51dc2b5747a7",
+      "byline": "By Amelia Nierenberg and Johanna Lemola",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T14:11:27-04:00",
+      "created_date": "2024-09-26T11:50:08-04:00",
+      "published_date": "2024-09-26T11:50:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pandas",
+        "Zoos",
+        "International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Finland",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/world/26finland-pandas01/26finland-pandas01-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pyry feeding on bamboo in his enclosure at the Ahtari Zoo in Finland in 2018.",
+          "copyright": "Roni Rekomaa/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/world/26finland-pandas01/26finland-pandas01-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pyry feeding on bamboo in his enclosure at the Ahtari Zoo in Finland in 2018.",
+          "copyright": "Roni Rekomaa/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/world/26finland-pandas01/26finland-pandas01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pyry feeding on bamboo in his enclosure at the Ahtari Zoo in Finland in 2018.",
+          "copyright": "Roni Rekomaa/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Israel Bombs Residential Site in Effort to Kill Hezbollah Leader",
+      "abstract": "The strike came barely an hour after the Israeli prime minister, Benjamin Netanyahu, delivered a fiery address to the U.N. General Assembly.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/israel-hezbollah-netanyahu-nasrallah.html",
+      "uri": "nyt://article/f6a9bb44-1e9e-5278-9e94-e47c972ecb02",
+      "byline": "By Ronen Bergman, Julian E. Barnes, Liam Stack, Farnaz Fassihi and Michael Levenson",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T21:35:54-04:00",
+      "created_date": "2024-09-27T21:35:54-04:00",
+      "published_date": "2024-09-27T21:35:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Iran-Israel Proxy Conflict"
+      ],
+      "org_facet": [
+        "Hezbollah",
+        "Houthis",
+        "Palestinian Authority",
+        "United Nations"
+      ],
+      "per_facet": [
+        "Nasrallah, Hassan",
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Beirut (Lebanon)",
+        "Israel",
+        "Lebanon",
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-1-cglk/27mideast-1-cglk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lebanese army soldiers gather over the rubble of a levelled buildings as people flight the flames, following Israeli air strikes in the Haret Hreik neighbourhood of Beirut’s southern suburbs on on Friday.",
+          "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-1-cglk/27mideast-1-cglk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lebanese army soldiers gather over the rubble of a levelled buildings as people flight the flames, following Israeli air strikes in the Haret Hreik neighbourhood of Beirut’s southern suburbs on on Friday.",
+          "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-1-cglk/27mideast-1-cglk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lebanese army soldiers gather over the rubble of a levelled buildings as people flight the flames, following Israeli air strikes in the Haret Hreik neighbourhood of Beirut’s southern suburbs on on Friday.",
+          "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Israeli Strikes Destroyed 4 Large Apartment Buildings in Beirut, Videos Show",
+      "abstract": "Visual evidence analyzed by The New York Times shows that nearby buildings were damaged in the attacks, which targeted Hezbollah’s leader. The extent of the destruction is not yet clear.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/beirut-nasrallah-strike-apartment-destroyed.html",
+      "uri": "nyt://article/126357b6-0373-5cc2-85dc-32ae3e93c60a",
+      "byline": "By Christiaan Triebert, Devon Lum, Aric Toler and Bora Erden",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T21:30:58-04:00",
+      "created_date": "2024-09-27T19:54:06-04:00",
+      "published_date": "2024-09-27T19:54:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [
+        "Nasrallah, Hassan"
+      ],
+      "geo_facet": [
+        "Beirut (Lebanon)",
+        "Lebanon"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/autossell/27-vid-Beirut-strike-aftermath/27-vid-Beirut-strike-aftermath-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 796,
+          "width": 528,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/autossell/27-vid-Beirut-strike-aftermath/27-vid-Beirut-strike-aftermath-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 352,
+          "width": 528,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/autossell/27-vid-Beirut-strike-aftermath/27-vid-Beirut-strike-aftermath-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "U.S.-Led Coalition in Iraq to Wind Down Its Mission",
+      "abstract": "The United States has 2,500 troops in Iraq who served as a bulwark against attacks by a resurgent Islamic State.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/us-coalition-iraq-isis.html",
+      "uri": "nyt://article/184d7ed3-bb33-563a-a731-9b94a9729485",
+      "byline": "By Alissa J. Rubin, Helene Cooper and Eric Schmitt",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T19:27:13-04:00",
+      "created_date": "2024-09-27T19:03:50-04:00",
+      "published_date": "2024-09-27T19:03:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Terrorism",
+        "Defense and Military Forces",
+        "United States Defense and Military Forces",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Islamic State in Iraq and Syria (ISIS)"
+      ],
+      "per_facet": [
+        "Sudani, Mohammed Shia al-"
+      ],
+      "geo_facet": [
+        "Iran",
+        "Iraq",
+        "Erbil (Iraq)",
+        "Syria"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-iraq-gtpb/27dc-iraq-gtpb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1361,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The United States and Iraq said they had agreed to conclude the coalition’s military mission in Iraq “over the next twelve months, and no later than the end of September 2025.”",
+          "copyright": "Thaier Al-Sudani/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-iraq-gtpb/27dc-iraq-gtpb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The United States and Iraq said they had agreed to conclude the coalition’s military mission in Iraq “over the next twelve months, and no later than the end of September 2025.”",
+          "copyright": "Thaier Al-Sudani/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27dc-iraq-gtpb/27dc-iraq-gtpb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The United States and Iraq said they had agreed to conclude the coalition’s military mission in Iraq “over the next twelve months, and no later than the end of September 2025.”",
+          "copyright": "Thaier Al-Sudani/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Iran’s Supreme Leader Holds Emergency Meeting After Israel Attacks Lebanon",
+      "abstract": "Israel’s airstrikes south of Beirut flattened several buildings and targeted Hezbollah’s leader, Hassan Nasrallah.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/iran-emergency-meeting-hezbollah.html",
+      "uri": "nyt://article/be7588c6-133e-58c0-8604-86d7a2a056e6",
+      "byline": "By Farnaz Fassihi",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T20:14:57-04:00",
+      "created_date": "2024-09-27T18:53:23-04:00",
+      "published_date": "2024-09-27T18:53:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "International Relations",
+        "Palestinians",
+        "Israel-Gaza War (2023- )",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Hamas",
+        "Hezbollah"
+      ],
+      "per_facet": [
+        "Araghchi, Abbas",
+        "Haniya, Ismail",
+        "Jalili, Saeed",
+        "Khamenei, Ali",
+        "Nasrallah, Hassan",
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Lebanon",
+        "Israel",
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-iran1-jgwq/27mideast-crisis-iran1-jgwq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Iranian holding a photo of Iran’s supreme leader, Ayatollah Ali Khamenei, during a rally to support Hezbollah and Palestinians after Friday prayers in Tehran.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-iran1-jgwq/27mideast-crisis-iran1-jgwq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Iranian holding a photo of Iran’s supreme leader, Ayatollah Ali Khamenei, during a rally to support Hezbollah and Palestinians after Friday prayers in Tehran.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-iran1-jgwq/27mideast-crisis-iran1-jgwq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Iranian holding a photo of Iran’s supreme leader, Ayatollah Ali Khamenei, during a rally to support Hezbollah and Palestinians after Friday prayers in Tehran.",
+          "copyright": "Arash Khamooshi for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Who Is Hassan Nasrallah, Leader of Hezbollah?",
+      "abstract": "In 32 years in charge of Hezbollah, Mr. Nasrallah, 64, has built the Iranian-backed militia into an influential force in Lebanon and a potent adversary of Israel.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/hassan-nasrallah-hezbollah-leader.html",
+      "uri": "nyt://article/ab06aea4-c8ca-5b53-bc9d-8e341f57b841",
+      "byline": "By Neil MacFarquhar",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T17:45:54-04:00",
+      "created_date": "2024-09-27T15:08:56-04:00",
+      "published_date": "2024-09-27T15:08:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Shiite Muslims",
+        "Israel-Gaza War (2023- )"
+      ],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [
+        "Nasrallah, Hassan"
+      ],
+      "geo_facet": [
+        "Lebanon",
+        "Israel",
+        "Middle East"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nasrallah-01-fjlh/27nasrallah-01-fjlh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hassan Nasrallah, the secretary general of Hezbollah, speaking on a screen in Baalbek, Lebanon, in 2018.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nasrallah-01-fjlh/27nasrallah-01-fjlh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hassan Nasrallah, the secretary general of Hezbollah, speaking on a screen in Baalbek, Lebanon, in 2018.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27nasrallah-01-fjlh/27nasrallah-01-fjlh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hassan Nasrallah, the secretary general of Hezbollah, speaking on a screen in Baalbek, Lebanon, in 2018.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "",
+      "title": "Antidoping Agency Lost Track of Open Cases and Test Results Before Olympics",
+      "abstract": "In a fraught meeting in May, top officials at the World Anti-Doping Agency were warned that a computer glitch might allow athletes accused of doping to compete at the Paris Games.",
+      "url": "https://www.nytimes.com/2024/09/27/world/wada-doping-database-crisis.html",
+      "uri": "nyt://article/e669e9a1-7549-55a2-abb5-33f22a3325bf",
+      "byline": "By Tariq Panja and Michael S. Schmidt",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T21:04:58-04:00",
+      "created_date": "2024-09-27T15:06:15-04:00",
+      "published_date": "2024-09-27T15:06:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Doping (Sports)",
+        "Olympic Games (2024)",
+        "Steroids",
+        "Athletics and Sports",
+        "Computers and the Internet",
+        "Tests (Drug Use)",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": [
+        "World Anti-Doping Agency"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/00doping-vlwk/00doping-vlwk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A database problem identified before the Paris Olympics created the risk that cases of athletes accused of doping violations were not being tracked.",
+          "copyright": "Daniel Berehulak/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/00doping-vlwk/00doping-vlwk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A database problem identified before the Paris Olympics created the risk that cases of athletes accused of doping violations were not being tracked.",
+          "copyright": "Daniel Berehulak/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/00doping-vlwk/00doping-vlwk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A database problem identified before the Paris Olympics created the risk that cases of athletes accused of doping violations were not being tracked.",
+          "copyright": "Daniel Berehulak/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Booby Traps, Pager Attacks and the Law of War",
+      "abstract": "After Israel detonated pagers and walkie-talkies in Lebanon, a fierce debate began about whether the attacks violated international law. A U.N. treaty from 1996 offers an answer.",
+      "url": "https://www.nytimes.com/2024/09/27/world/europe/israel-hezbollah-lebanon-pager-attack.html",
+      "uri": "nyt://article/64bc1122-f8b6-5d99-af58-30257160ae39",
+      "byline": "By Amanda Taub",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T16:31:55-04:00",
+      "created_date": "2024-09-27T14:57:52-04:00",
+      "published_date": "2024-09-27T14:57:52-04:00",
+      "material_type_facet": "",
+      "kicker": "The interpreter",
+      "des_facet": [
+        "Bombs and Explosives",
+        "Israel-Gaza War (2023- )",
+        "Civilian Casualties",
+        "Law and Legislation",
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Defense and Military Forces",
+        "Treaties"
+      ],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Lebanon",
+        "Israel"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25InterpreterNL-Booby-Traps-lcwp/25InterpreterNL-Booby-Traps-lcwp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mourners at the funeral for Fatima Abdullah, 9, who was killed by a pager that exploded in her hands on Sept. 17.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25InterpreterNL-Booby-Traps-lcwp/25InterpreterNL-Booby-Traps-lcwp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mourners at the funeral for Fatima Abdullah, 9, who was killed by a pager that exploded in her hands on Sept. 17.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25InterpreterNL-Booby-Traps-lcwp/25InterpreterNL-Booby-Traps-lcwp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mourners at the funeral for Fatima Abdullah, 9, who was killed by a pager that exploded in her hands on Sept. 17.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "‘It Was Like Judgment Day’: Residents Flee Deadly Israeli Strikes Near Beirut",
+      "abstract": "Residents described a scene of flattened buildings and destroyed vehicles after Israel unleashed strikes targeting Hezbollah’s leader outside the Lebanese capital.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/beirut-lebanon-israeli-strikes-hezbollah.html",
+      "uri": "nyt://article/ac01b232-8d60-5c76-b054-7631cf519bfc",
+      "byline": "By Hwaida Saad, Vivian Yee, Aaron Boxerman, Christiaan Triebert, Aric Toler and Euan Ward",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T17:59:16-04:00",
+      "created_date": "2024-09-27T14:18:24-04:00",
+      "published_date": "2024-09-27T14:18:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Civilian Casualties",
+        "Deaths (Fatalities)",
+        "Defense and Military Forces",
+        "International Relations"
+      ],
+      "org_facet": [
+        "Hezbollah",
+        "General Assembly (UN)"
+      ],
+      "per_facet": [
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Beirut (Lebanon)",
+        "Lebanon",
+        "Syria",
+        "Israel"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-israel-strike-lebanon-scenes-vmzf/27mideast-crisis-israel-strike-lebanon-scenes-vmzf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The aftermath of Israeli strikes on Friday in Beirut’s suburbs.",
+          "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-israel-strike-lebanon-scenes-vmzf/27mideast-crisis-israel-strike-lebanon-scenes-vmzf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The aftermath of Israeli strikes on Friday in Beirut’s suburbs.",
+          "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-israel-strike-lebanon-scenes-vmzf/27mideast-crisis-israel-strike-lebanon-scenes-vmzf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The aftermath of Israeli strikes on Friday in Beirut’s suburbs.",
+          "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "On Trip to U.S., Zelensky Finds Ukraine’s Fortunes Tied to the Election",
+      "abstract": "A whirlwind week of top-level meetings failed to alleviate concerns in Kyiv that a Trump presidency could lead to a dramatic shift in American policy.",
+      "url": "https://www.nytimes.com/2024/09/27/world/europe/zelensky-ukraine-us-election.html",
+      "uri": "nyt://article/bff3cf90-74fd-5f13-9cc2-83175a3ccbd2",
+      "byline": "By Marc Santora",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:55:43-04:00",
+      "created_date": "2024-09-27T13:11:30-04:00",
+      "published_date": "2024-09-27T13:11:30-04:00",
+      "material_type_facet": "",
+      "kicker": "news analysis",
+      "des_facet": [
+        "United States International Relations",
+        "Russian Invasion of Ukraine (2022)",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Defense and Military Forces",
+        "Nuclear Weapons",
+        "Missiles and Missile Defense Systems"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Zelensky, Volodymyr",
+        "Trump, Donald J",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [
+        "Europe",
+        "Kursk (Russia)",
+        "Pokrovsk (Ukraine)",
+        "Ukraine"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27Ukraine-zelensky-assess-01-hqzl/27Ukraine-zelensky-assess-01-hqzl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Volodymyr Zelensky of Ukraine met Vice President Kamala Harris in Washington on Thursday.",
+          "copyright": "Eric Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27Ukraine-zelensky-assess-01-hqzl/27Ukraine-zelensky-assess-01-hqzl-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Volodymyr Zelensky of Ukraine met Vice President Kamala Harris in Washington on Thursday.",
+          "copyright": "Eric Lee/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27Ukraine-zelensky-assess-01-hqzl/27Ukraine-zelensky-assess-01-hqzl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Volodymyr Zelensky of Ukraine met Vice President Kamala Harris in Washington on Thursday.",
+          "copyright": "Eric Lee/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Israel’s New Campaign Against Hezbollah Started With Raid in Syria",
+      "abstract": "An attack on a secret weapons lab was one of the most daring Israeli operations against the Iranian proxy group in years, covert in name only.",
+      "url": "https://www.nytimes.com/2024/09/27/us/politics/israel-hezbollah-syria.html",
+      "uri": "nyt://article/0c49f92a-6c2b-55f3-9c27-fd76e2b245d1",
+      "byline": "By Helene Cooper, Julian E. Barnes and Ronen Bergman",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T12:35:48-04:00",
+      "created_date": "2024-09-27T11:36:46-04:00",
+      "published_date": "2024-09-27T11:36:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Iran-Israel Proxy Conflict",
+        "Defense and Military Forces",
+        "Missiles and Missile Defense Systems"
+      ],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Israel",
+        "Syria",
+        "Lebanon"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20dc-commandos-qchb/20dc-commandos-qchb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The aftermath of Israeli strikes on Masyaf, Syria, this month. The area is only about 30 miles from the Lebanese border, which is why, Israeli and American officials say, Hezbollah manufactures weapons there instead of in Iran.",
+          "copyright": "Louai Beshara/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20dc-commandos-qchb/20dc-commandos-qchb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The aftermath of Israeli strikes on Masyaf, Syria, this month. The area is only about 30 miles from the Lebanese border, which is why, Israeli and American officials say, Hezbollah manufactures weapons there instead of in Iran.",
+          "copyright": "Louai Beshara/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20dc-commandos-qchb/20dc-commandos-qchb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The aftermath of Israeli strikes on Masyaf, Syria, this month. The area is only about 30 miles from the Lebanese border, which is why, Israeli and American officials say, Hezbollah manufactures weapons there instead of in Iran.",
+          "copyright": "Louai Beshara/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Israel Likely to Have Enough Weapons for Multiple Conflicts",
+      "abstract": "Although Israel, like many countries, is highly secretive about its weapons stockpiles, experts believe it could outlast adversaries in offensives on at least two fronts simultaneously.",
+      "url": "https://www.nytimes.com/2024/09/27/world/middleeast/israel-weapons-stockpiles.html",
+      "uri": "nyt://article/5170161d-b0d2-5d56-9314-c383df898b72",
+      "byline": "By Lara Jakes",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T11:56:39-04:00",
+      "created_date": "2024-09-27T10:44:04-04:00",
+      "published_date": "2024-09-27T10:44:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Missiles and Missile Defense Systems",
+        "Defense and Military Forces",
+        "Arms Trade",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Hezbollah",
+        "Hamas"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Gaza Strip",
+        "Israel",
+        "Lebanon"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-israel-arsenal-assess-kqtb/26mideast-crisis-israel-arsenal-assess-kqtb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1388,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke rising over southern Lebanon after Israeli strikes on Monday.",
+          "copyright": "Aziz Taher/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-israel-arsenal-assess-kqtb/26mideast-crisis-israel-arsenal-assess-kqtb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke rising over southern Lebanon after Israeli strikes on Monday.",
+          "copyright": "Aziz Taher/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-israel-arsenal-assess-kqtb/26mideast-crisis-israel-arsenal-assess-kqtb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke rising over southern Lebanon after Israeli strikes on Monday.",
+          "copyright": "Aziz Taher/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "The Sudden Appeal of the Bulldog Spirit",
+      "abstract": "Such is the hold the Premier League has on the popular consciousness that enticing a player away from it is seen as a coup.",
+      "url": "https://www.nytimes.com/2024/09/27/world/europe/atletico-real-madrid-derby.html",
+      "uri": "nyt://article/b714e9e9-d536-50d6-bcd5-1c8c009b6bfa",
+      "byline": "By Rory Smith",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T12:08:14-04:00",
+      "created_date": "2024-09-27T10:35:04-04:00",
+      "published_date": "2024-09-27T10:35:04-04:00",
+      "material_type_facet": "",
+      "kicker": "The On Soccer Newsletter",
+      "des_facet": [
+        "Soccer"
+      ],
+      "org_facet": [
+        "Atletico Madrid (Soccer Team)",
+        "Real Madrid (Soccer Team)",
+        "English Premier League"
+      ],
+      "per_facet": [
+        "Bellingham, Jude (2003- )",
+        "Gallagher, Conor (2000- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27rory-gallagher-vzcg/27rory-gallagher-vzcg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1789,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Atlético Madrid’s new English prize, Conor Gallagher.",
+          "copyright": "Violeta Santos Moura/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27rory-gallagher-vzcg/27rory-gallagher-vzcg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Atlético Madrid’s new English prize, Conor Gallagher.",
+          "copyright": "Violeta Santos Moura/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27rory-gallagher-vzcg/27rory-gallagher-vzcg-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Atlético Madrid’s new English prize, Conor Gallagher.",
+          "copyright": "Violeta Santos Moura/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "americas",
+      "title": "Tropical Storm John Hits Mexico for the Second Time This Week",
+      "abstract": "The storm made landfall again late Friday morning but was dissipating in the evening. At least eight people have died.",
+      "url": "https://www.nytimes.com/2024/09/27/world/americas/tropical-storm-john-mexico.html",
+      "uri": "nyt://article/8ecc1538-e4a8-57cd-aa11-45aefa5f7df5",
+      "byline": "By Isabella Kwai",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T17:26:51-04:00",
+      "created_date": "2024-09-27T07:54:01-04:00",
+      "published_date": "2024-09-27T07:54:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Weather",
+        "Landslides and Mudslides",
+        "Rain",
+        "Hurricanes and Tropical Storms"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Mexico"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/world/ten-e-satellite-map-satellite_map/ten-e-satellite-map-satellite_map-superJumbo-v142.jpg",
+          "format": "Super Jumbo",
+          "height": 1333,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/world/ten-e-satellite-map-satellite_map/ten-e-satellite-map-satellite_map-threeByTwoSmallAt2X-v172.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/world/ten-e-satellite-map-satellite_map/ten-e-satellite-map-satellite_map-thumbLarge-v142.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Zelensky Meets Trump Amid Fears for Continued U.S. Support for Ukraine",
+      "abstract": "The session in New York was part of a nearly weeklong U.S. visit by the Ukrainian president in which he has made appeals to both Democrats and Republicans.",
+      "url": "https://www.nytimes.com/2024/09/27/world/europe/zelensky-trump-ukraine-russia-war.html",
+      "uri": "nyt://article/58657638-a276-57a7-b348-b533290b9d7d",
+      "byline": "By Constant Méheut",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T12:07:23-04:00",
+      "created_date": "2024-09-27T05:47:25-04:00",
+      "published_date": "2024-09-27T05:47:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "Foreign Aid",
+        "Presidential Election of 2024",
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Zelensky, Volodymyr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Ukraine"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ukraine-trump-01-hkfm/27ukraine-trump-01-hkfm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Volodymyr Zelensky of Ukraine, second from left, attended a meeting with other world leaders on Wednesday in New York.",
+          "copyright": "Haiyun Jiang for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ukraine-trump-01-hkfm/27ukraine-trump-01-hkfm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Volodymyr Zelensky of Ukraine, second from left, attended a meeting with other world leaders on Wednesday in New York.",
+          "copyright": "Haiyun Jiang for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ukraine-trump-01-hkfm/27ukraine-trump-01-hkfm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Volodymyr Zelensky of Ukraine, second from left, attended a meeting with other world leaders on Wednesday in New York.",
+          "copyright": "Haiyun Jiang for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "australia",
+      "title": "A ‘Super Bowl’ Holiday",
+      "abstract": "In the state of Victoria, you need more than one day to take in all that the A.F.L. Grand Final has to offer.",
+      "url": "https://www.nytimes.com/2024/09/27/world/australia/afl-grand-final.html",
+      "uri": "nyt://article/01df8223-4f04-525e-b8a3-78436d1fc483",
+      "byline": "By Julia Bergin",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T02:18:13-04:00",
+      "created_date": "2024-09-27T01:12:26-04:00",
+      "published_date": "2024-09-27T01:12:26-04:00",
+      "material_type_facet": "",
+      "kicker": "Letter 372",
+      "des_facet": [
+        "Australian Football",
+        "Holidays and Special Occasions"
+      ],
+      "org_facet": [
+        "Australian Football League"
+      ],
+      "per_facet": [
+        "Cox, Mason (1991- )"
+      ],
+      "geo_facet": [
+        "Australia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ozletter-blqh/27ozletter-blqh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The GWS Giants, in orange, playing the Brisbane Lions in the A.F.L. semifinals earlier this month. Brisbane will play the Sydney Swans in the final. ",
+          "copyright": "Mark Metcalfe/AFL Photos, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ozletter-blqh/27ozletter-blqh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The GWS Giants, in orange, playing the Brisbane Lions in the A.F.L. semifinals earlier this month. Brisbane will play the Sydney Swans in the final. ",
+          "copyright": "Mark Metcalfe/AFL Photos, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/multimedia/27ozletter-blqh/27ozletter-blqh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The GWS Giants, in orange, playing the Brisbane Lions in the A.F.L. semifinals earlier this month. Brisbane will play the Sydney Swans in the final. ",
+          "copyright": "Mark Metcalfe/AFL Photos, via Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "Friday Briefing: Mayor’s Adams’s Arraignment",
+      "abstract": "Plus, control behind K-pop goes public.",
+      "url": "https://www.nytimes.com/2024/09/27/briefing/mayor-eric-adams-israel-hezbollah-us-election.html",
+      "uri": "nyt://article/5432647d-b063-56b0-ac53-aef660d52111",
+      "byline": "By Justin Porter",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T00:08:28-04:00",
+      "created_date": "2024-09-27T00:08:28-04:00",
+      "published_date": "2024-09-27T00:08:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/27ambriefing-europe-adams/26evening-adams-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Adams speaking yesterday.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/27ambriefing-europe-adams/26evening-adams-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Adams speaking yesterday.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/27ambriefing-europe-adams/26adams-indictment-carousel-jthq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Adams speaking yesterday.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Pope Punishes Members of Catholic Group in Peru After Vatican Investigation",
+      "abstract": "The Vatican expelled 10 members from Sodalitium Christianae Vitae, a group founded in Peru, after investigators reported cases of physical abuse and cultlike control.",
+      "url": "https://www.nytimes.com/2024/09/26/world/europe/pope-peru-sodalitium.html",
+      "uri": "nyt://article/5b9cb97f-bb31-58f8-803a-3657711f7391",
+      "byline": "By Mitra Taj and Elisabetta Povoledo",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T03:05:00-04:00",
+      "created_date": "2024-09-26T18:23:14-04:00",
+      "published_date": "2024-09-26T18:23:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Popes",
+        "Priests"
+      ],
+      "org_facet": [
+        "Roman Catholic Church"
+      ],
+      "per_facet": [
+        "Francis",
+        "Figari, Luis Fernando",
+        "Scicluna, Charles"
+      ],
+      "geo_facet": [
+        "Peru"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26peru-vatican-vwbk/26peru-vatican-vwbk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pope Francis during a visit to Peru in 2018. He expelled 10 members of a group called Sodalitium Christianae Vitae after an investigation into allegations of abuse within it.",
+          "copyright": "Rodrigo Abd/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26peru-vatican-vwbk/26peru-vatican-vwbk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pope Francis during a visit to Peru in 2018. He expelled 10 members of a group called Sodalitium Christianae Vitae after an investigation into allegations of abuse within it.",
+          "copyright": "Rodrigo Abd/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26peru-vatican-vwbk/26peru-vatican-vwbk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pope Francis during a visit to Peru in 2018. He expelled 10 members of a group called Sodalitium Christianae Vitae after an investigation into allegations of abuse within it.",
+          "copyright": "Rodrigo Abd/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "briefing",
+      "subsection": "",
+      "title": "Friday Briefing: New York City’s Mayor is Indicted",
+      "abstract": "Plus, the control behind K-pop goes public.",
+      "url": "https://www.nytimes.com/2024/09/26/briefing/adams-indictment-netanyahu-election-interference.html",
+      "uri": "nyt://article/39b525db-776d-5d8c-a8cd-9b705a1b2331",
+      "byline": "By Gaya Gupta",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T17:14:27-04:00",
+      "created_date": "2024-09-26T17:14:27-04:00",
+      "published_date": "2024-09-26T17:14:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/27ambriefing-asia-nl-ADAMS/27ambriefing-asia-nl-ADAMS-superJumbo-v6.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Eric Adams of New York speaking outside the mayoral mansion. ",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/27ambriefing-asia-nl-ADAMS/27ambriefing-asia-nl-ADAMS-threeByTwoSmallAt2X-v6.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Eric Adams of New York speaking outside the mayoral mansion. ",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/27ambriefing-asia-nl-ADAMS/27ambriefing-asia-nl-ADAMS-thumbLarge-v6.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Eric Adams of New York speaking outside the mayoral mansion. ",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Netanyahu Defiant as World Leaders Press for Israeli-Hezbollah Truce",
+      "abstract": "Prime Minister Benjamin Netanyahu of Israel vowed to keep striking the Lebanese militants, who began launching rockets across the border almost a year ago in support of their Hamas allies in Gaza.",
+      "url": "https://www.nytimes.com/2024/09/26/world/middleeast/israel-hezbollah-lebanon.html",
+      "uri": "nyt://article/1708b956-edd3-543d-9d8d-7f3bc9c37093",
+      "byline": "By Liam Stack, Patrick Kingsley, Farnaz Fassihi and Michael Levenson",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T08:17:23-04:00",
+      "created_date": "2024-09-26T16:57:24-04:00",
+      "published_date": "2024-09-26T16:57:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Defense and Military Forces",
+        "Iran-Israel Proxy Conflict",
+        "War and Armed Conflicts",
+        "Peace Process",
+        "Israel-Gaza War (2023- )",
+        "International Relations"
+      ],
+      "org_facet": [
+        "Hezbollah"
+      ],
+      "per_facet": [
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Israel",
+        "Lebanon",
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-leadall-01-kclf/26mideast-crisis-leadall-01-kclf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lebanese forces securing the area after an Israeli strike hit a high-rise building in the densely populated southern suburbs of Beirut on Thursday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-leadall-01-kclf/26mideast-crisis-leadall-01-kclf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lebanese forces securing the area after an Israeli strike hit a high-rise building in the densely populated southern suburbs of Beirut on Thursday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-leadall-01-kclf/26mideast-crisis-leadall-01-kclf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lebanese forces securing the area after an Israeli strike hit a high-rise building in the densely populated southern suburbs of Beirut on Thursday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "africa",
+      "title": "Sudan’s Army Launches Operation to Retake Capital",
+      "abstract": "The latest outbreak of fighting comes as nations gathered at the U.N. General Assembly called for an end to the war and for aid to be fast-tracked to millions in need.",
+      "url": "https://www.nytimes.com/2024/09/26/world/africa/sudan-army-operation-capital-khartoum.html",
+      "uri": "nyt://article/9c1137be-8b76-5149-87e9-7d2a6f23f979",
+      "byline": "By Abdi Latif Dahir and Sarah Hurtes",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T17:17:21-04:00",
+      "created_date": "2024-09-26T15:26:19-04:00",
+      "published_date": "2024-09-26T15:26:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "War and Armed Conflicts",
+        "Defense and Military Forces",
+        "Humanitarian Aid",
+        "Refugees and Displaced Persons",
+        "Human Rights and Human Rights Violations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "al-Burhan, Abdel Fattah",
+        "Hamdan, Mohamed (Hemeti)"
+      ],
+      "geo_facet": [
+        "Sudan",
+        "Darfur (Sudan)",
+        "Khartoum (Sudan)",
+        "Omdurman (Sudan)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26sudan-1-hvjq/26sudan-1-hvjq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke billowing over Khartoum, Sudan, on Thursday.",
+          "copyright": "Rashed Ahmed/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26sudan-1-hvjq/26sudan-1-hvjq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke billowing over Khartoum, Sudan, on Thursday.",
+          "copyright": "Rashed Ahmed/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26sudan-1-hvjq/26sudan-1-hvjq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke billowing over Khartoum, Sudan, on Thursday.",
+          "copyright": "Rashed Ahmed/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "The Global Threat of Antibiotic Resistance",
+      "abstract": "Health experts, gathering at the U.N., have begun to shift their focus to try to provide access to basic drugs in countries where preventable deaths from infections occur too frequently.",
+      "url": "https://www.nytimes.com/2024/09/26/health/united-nations-drug-resistance-antibiotics.html",
+      "uri": "nyt://article/4a703595-cd26-5308-b73c-3b45c5fe931e",
+      "byline": "By Andrew Jacobs",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:01:19-04:00",
+      "created_date": "2024-09-26T15:23:41-04:00",
+      "published_date": "2024-09-26T15:23:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Antibiotics",
+        "Poverty",
+        "Deaths (Fatalities)",
+        "Developing Countries",
+        "Drugs (Pharmaceuticals)",
+        "Shortages",
+        "Medicine and Health",
+        "Drug Resistance (Microbial)",
+        "Infections"
+      ],
+      "org_facet": [
+        "General Assembly (UN)",
+        "Lancet, The (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/science/26UN-GERMS/26UN-GERMS-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mycobacterium tuberculosis, a type of bacteria that causes tuberculosis, has become increasingly resistant to antibiotics.",
+          "copyright": "James Cavallini/BSIP/Universal Images Group, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/science/26UN-GERMS/26UN-GERMS-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mycobacterium tuberculosis, a type of bacteria that causes tuberculosis, has become increasingly resistant to antibiotics.",
+          "copyright": "James Cavallini/BSIP/Universal Images Group, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/science/26UN-GERMS/26UN-GERMS-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mycobacterium tuberculosis, a type of bacteria that causes tuberculosis, has become increasingly resistant to antibiotics.",
+          "copyright": "James Cavallini/BSIP/Universal Images Group, via Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Israel Says It Killed Another Hezbollah Commander in Beirut",
+      "abstract": "The Israeli military said the commander, Mohamed Hussein Sarour, was killed in a strike. There was no immediate confirmation from Hezbollah.",
+      "url": "https://www.nytimes.com/2024/09/26/world/middleeast/israel-hezbollah-mohammed-hussein-sarour-beirut.html",
+      "uri": "nyt://article/50166bda-5482-51e0-86a8-566cb8ffe52b",
+      "byline": "By Liam Stack",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T12:31:31-04:00",
+      "created_date": "2024-09-26T11:31:11-04:00",
+      "published_date": "2024-09-26T11:31:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Drones (Pilotless Planes)",
+        "Defense and Military Forces",
+        "Iran-Israel Proxy Conflict",
+        "War and Armed Conflicts",
+        "Israel-Gaza War (2023- )"
+      ],
+      "org_facet": [
+        "Hezbollah",
+        "Houthis"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Beirut (Lebanon)",
+        "Israel",
+        "Lebanon"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-beirut-strike-mjbw/26mideast-crisis-beirut-strike-mjbw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The scene after an Israeli strike hit a high-rise building in southern Beirut on Thursday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-beirut-strike-mjbw/26mideast-crisis-beirut-strike-mjbw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The scene after an Israeli strike hit a high-rise building in southern Beirut on Thursday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-beirut-strike-mjbw/26mideast-crisis-beirut-strike-mjbw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The scene after an Israeli strike hit a high-rise building in southern Beirut on Thursday.",
+          "copyright": "Diego Ibarra Sanchez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Cyber Attack Displays ‘Islamophobic’ Message on U.K. Trains, Officials Say",
+      "abstract": "The British authorities are investigating after commuters at 19 train stations saw an Islamophobic message when they tried to log on to a public Wi-Fi system.",
+      "url": "https://www.nytimes.com/2024/09/26/world/europe/britain-rail-cyber-attack.html",
+      "uri": "nyt://article/56d2e895-bdb1-5b13-9f97-f86c2e61a7e6",
+      "byline": "By Isabella Kwai",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T14:34:56-04:00",
+      "created_date": "2024-09-26T11:02:42-04:00",
+      "published_date": "2024-09-26T11:02:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computer Security",
+        "Wireless Communications",
+        "Cyberattacks and Hackers"
+      ],
+      "org_facet": [
+        "Network Rail Ltd"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Great Britain",
+        "London (England)",
+        "England"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26xp-trainhack-glcb/26xp-trainhack-glcb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waterloo Station in London was one of several affected by a cybersecurity incident on Wednesday.",
+          "copyright": "Alex Ingram for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26xp-trainhack-glcb/26xp-trainhack-glcb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waterloo Station in London was one of several affected by a cybersecurity incident on Wednesday.",
+          "copyright": "Alex Ingram for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26xp-trainhack-glcb/26xp-trainhack-glcb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waterloo Station in London was one of several affected by a cybersecurity incident on Wednesday.",
+          "copyright": "Alex Ingram for The New York Times"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}

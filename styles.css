@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; /* Light gray background */
+}
+
+header {
+  background-color: #333; /* Dark gray header */
+  color: #fff; /* White text */
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav a {
+  color: #fff; /* White links */
+  text-decoration: none; /* Remove underlines */
+}
+
+main {
+  padding: 20px;
+}
+
+.top-stories,
+.book-reviews {
+  margin-bottom: 20px;
+}
+
+.science-stories-container,
+.world-stories-container,
+
+.story,
+.section {
+  width: 48%; /* Adjust width as needed */
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #fff; /* White background for stories/sections */
+}
+
+.story img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.story h3 {
+  margin-top: 0; /* Reduce spacing above headline */
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}

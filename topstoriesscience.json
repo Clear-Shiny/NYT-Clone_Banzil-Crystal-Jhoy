@@ -1,0 +1,1676 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+  "section": "Science",
+  "last_updated": "2024-09-27T17:14:45-04:00",
+  "num_results": 27,
+  "results": [
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Sign Up for the Science Times Newsletter",
+      "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+      "url": "null",
+      "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+      "byline": "",
+      "item_type": "EmbeddedInteractive",
+      "updated_date": "2018-04-07T13:23:25-04:00",
+      "created_date": "2016-02-05T18:18:53-05:00",
+      "published_date": "2016-02-05T18:18:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1534,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NASA, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NASA, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NASA, via Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "admin",
+      "subsection": "",
+      "title": "",
+      "abstract": "",
+      "url": "",
+      "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+      "byline": "",
+      "item_type": "EmbeddedInteractive",
+      "updated_date": "2015-07-20T13:45:03-04:00",
+      "created_date": "2015-04-16T14:13:18-04:00",
+      "published_date": "2015-04-16T14:13:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Biden Officials Stave Off Sticker Shock on Medicare Drug Premiums",
+      "abstract": "Federal regulators spent billions of dollars to avoid a spike in costs for older Americans that could have been politically damaging to the presidential campaign of Vice President Kamala Harris.",
+      "url": "https://www.nytimes.com/2024/09/27/health/medicare-drug-prices-harris-biden.html",
+      "uri": "nyt://article/c16cc97a-45ea-5282-aeeb-4399f09552b2",
+      "byline": "By Rebecca Robbins and Reed Abelson",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T22:31:59-04:00",
+      "created_date": "2024-09-27T16:00:11-04:00",
+      "published_date": "2024-09-27T16:00:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Health Insurance and Managed Care",
+        "Medicare",
+        "United States Politics and Government",
+        "Drugs (Pharmaceuticals)",
+        "Presidential Election of 2024",
+        "Prices (Fares, Fees and Rates)",
+        "Inflation Reduction Act of 2022",
+        "Medicare Advantage"
+      ],
+      "org_facet": [
+        "Centers for Medicare and Medicaid Services"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/xxmedicare-premiums-ptbz/xxmedicare-premiums-ptbz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Without a move by Medicare, some older people would likely have paid hundreds of dollars more annually in insurance premiums.",
+          "copyright": "Ramin Rahimian for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/xxmedicare-premiums-ptbz/xxmedicare-premiums-ptbz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Without a move by Medicare, some older people would likely have paid hundreds of dollars more annually in insurance premiums.",
+          "copyright": "Ramin Rahimian for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/xxmedicare-premiums-ptbz/xxmedicare-premiums-ptbz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Without a move by Medicare, some older people would likely have paid hundreds of dollars more annually in insurance premiums.",
+          "copyright": "Ramin Rahimian for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Possible Cluster of Human Bird-Flu Infections Expands in Missouri",
+      "abstract": "Seven people in contact with a patient hospitalized with bird flu also developed symptoms, the C.D.C. reported. Some are undergoing further tests.",
+      "url": "https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html",
+      "uri": "nyt://article/c768a5a7-33bb-5283-bdef-1ea6c615d978",
+      "byline": "By Apoorva Mandavilli and Emily Anthes",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T14:59:21-04:00",
+      "created_date": "2024-09-27T12:12:54-04:00",
+      "published_date": "2024-09-27T12:12:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Avian Influenza",
+        "Disease Rates",
+        "Epidemics",
+        "Tests (Medical)",
+        "Health Care Workers",
+        "Infections",
+        "Cattle",
+        "Viruses",
+        "Influenza",
+        "Medicine and Health"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/science/27bird-flu/27bird-flu-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There have been 13 other confirmed cases of H5N1 bird flu in people since the outbreak in dairy cattle was announced in March.",
+          "copyright": "Cynthia Goldsmith/Centers for Disease Control and Prevention"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/science/27bird-flu/27bird-flu-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There have been 13 other confirmed cases of H5N1 bird flu in people since the outbreak in dairy cattle was announced in March.",
+          "copyright": "Cynthia Goldsmith/Centers for Disease Control and Prevention"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/27/science/27bird-flu/27bird-flu-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "There have been 13 other confirmed cases of H5N1 bird flu in people since the outbreak in dairy cattle was announced in March.",
+          "copyright": "Cynthia Goldsmith/Centers for Disease Control and Prevention"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Acadia Healthcare Says It Faces New Federal Investigations",
+      "abstract": "Shares of the company, one of the largest chains of for-profit psychiatric hospitals, were down 25 percent at one point.",
+      "url": "https://www.nytimes.com/2024/09/27/business/acadia-federal-investigations.html",
+      "uri": "nyt://article/ae9eaec0-bd93-5e65-a7a0-00ebce258231",
+      "byline": "By Jessica Silver-Greenberg and Katie Thomas",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T11:25:35-04:00",
+      "created_date": "2024-09-27T11:25:35-04:00",
+      "published_date": "2024-09-27T11:25:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal-State Relations (US)",
+        "Hospitals",
+        "Health Insurance and Managed Care",
+        "Stocks and Bonds",
+        "Psychiatry and Psychiatrists",
+        "Securities and Commodities Violations",
+        "Inspectors General",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Health and Human Services Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/27Acadia/26Acadia-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "North Tampa Behavioral Health Hospital is one of more than 50 psychiatric hospitals operated by Acadia Healthcare.",
+          "copyright": "Michael Adno for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/27Acadia/26Acadia-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "North Tampa Behavioral Health Hospital is one of more than 50 psychiatric hospitals operated by Acadia Healthcare.",
+          "copyright": "Michael Adno for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/27Acadia/26Acadia-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "North Tampa Behavioral Health Hospital is one of more than 50 psychiatric hospitals operated by Acadia Healthcare.",
+          "copyright": "Michael Adno for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Risk of Heart Defects Higher in Babies Conceived With I.V.F.",
+      "abstract": "The birth defects were more likely, but still very uncommon, in infants conceived through certain fertility treatments, a large study found.",
+      "url": "https://www.nytimes.com/2024/09/27/health/ivf-birth-defects.html",
+      "uri": "nyt://article/bde21111-2af5-59c9-85df-96f0551452de",
+      "byline": "By Teddy Rosenbluth",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:02:17-04:00",
+      "created_date": "2024-09-27T08:16:48-04:00",
+      "published_date": "2024-09-27T08:16:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Birth Defects",
+        "Multiple Births",
+        "Twins",
+        "Babies and Infants",
+        "In Vitro Fertilization",
+        "Pregnancy and Childbirth",
+        "Reproduction (Biological)",
+        "Infertility",
+        "Sperm",
+        "Embryos (Human)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/26ivf/26ivf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing embryos to test for viability at a fertility clinic in Houston.",
+          "copyright": "Michael Wyke/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/26ivf/26ivf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing embryos to test for viability at a fertility clinic in Houston.",
+          "copyright": "Michael Wyke/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/26ivf/26ivf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Preparing embryos to test for viability at a fertility clinic in Houston.",
+          "copyright": "Michael Wyke/Associated Press"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "F.D.A. Approves the First New Schizophrenia Drug in Decades",
+      "abstract": "Available antipsychotic treatments work by blocking dopamine receptors. The new drug, Cobenfy, takes a different approach.",
+      "url": "https://www.nytimes.com/2024/09/26/health/fda-schizophrenia-drug.html",
+      "uri": "nyt://article/8d6d53e3-dbbc-5dde-a8de-62c2915c94f1",
+      "byline": "By Ellen Barry and Christina Jewett",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:00:52-04:00",
+      "created_date": "2024-09-26T18:47:23-04:00",
+      "published_date": "2024-09-26T18:47:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Regulation and Deregulation of Industry",
+        "Schizophrenia",
+        "Therapy and Rehabilitation",
+        "Drugs (Pharmaceuticals)",
+        "Psychology and Psychologists",
+        "Clinical Trials",
+        "Weight",
+        "Dopamine",
+        "Psychiatry and Psychiatrists",
+        "Research"
+      ],
+      "org_facet": [
+        "Bristol Myers Squibb Company",
+        "Food and Drug Administration",
+        "Karuna Therapeutics Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/26DRUG2/26DRUG2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new drug, Cobenfy, influences dopamine levels like other antipsychotic drugs, but it does so indirectly, by changing levels of another neurotransmitter, acetylcholine.",
+          "copyright": "Bristol Myers Squibb"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/26DRUG2/26DRUG2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new drug, Cobenfy, influences dopamine levels like other antipsychotic drugs, but it does so indirectly, by changing levels of another neurotransmitter, acetylcholine.",
+          "copyright": "Bristol Myers Squibb"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/science/26DRUG2/26DRUG2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new drug, Cobenfy, influences dopamine levels like other antipsychotic drugs, but it does so indirectly, by changing levels of another neurotransmitter, acetylcholine.",
+          "copyright": "Bristol Myers Squibb"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Acadia Hospitals Reach $20 Million Settlement With Justice Dept.",
+      "abstract": "The F.B.I. is also investigating the large chain of psychiatric hospitals for holding patients longer than what is medically necessary.",
+      "url": "https://www.nytimes.com/2024/09/26/health/acadia-doj-settlement-fbi.html",
+      "uri": "nyt://article/66e7ddcb-6d77-5e68-ba41-57297b43f995",
+      "byline": "By Katie Thomas and Jessica Silver-Greenberg",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T18:07:32-04:00",
+      "created_date": "2024-09-26T18:07:32-04:00",
+      "published_date": "2024-09-26T18:07:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Hospitals",
+        "Whistle-Blowers",
+        "Federal-State Relations (US)",
+        "Suits and Litigation (Civil)",
+        "Nursing and Nurses",
+        "Psychiatry and Psychiatrists",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26ACADIA-01-wtfv/26ACADIA-01-wtfv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jamie Clark Thompson, a whistle-blower who worked as director of nursing at Lakeview Behavioral Health Hospital, an Acadia facility in Norcross, Ga.",
+          "copyright": "Nicole Buchanan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26ACADIA-01-wtfv/26ACADIA-01-wtfv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jamie Clark Thompson, a whistle-blower who worked as director of nursing at Lakeview Behavioral Health Hospital, an Acadia facility in Norcross, Ga.",
+          "copyright": "Nicole Buchanan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26ACADIA-01-wtfv/26ACADIA-01-wtfv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jamie Clark Thompson, a whistle-blower who worked as director of nursing at Lakeview Behavioral Health Hospital, an Acadia facility in Norcross, Ga.",
+          "copyright": "Nicole Buchanan for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "The Global Threat of Antibiotic Resistance",
+      "abstract": "Health experts, gathering at the U.N., have begun to shift their focus to try to provide access to basic drugs in countries where preventable deaths from infections occur too frequently.",
+      "url": "https://www.nytimes.com/2024/09/26/health/united-nations-drug-resistance-antibiotics.html",
+      "uri": "nyt://article/4a703595-cd26-5308-b73c-3b45c5fe931e",
+      "byline": "By Andrew Jacobs",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:01:19-04:00",
+      "created_date": "2024-09-26T15:23:41-04:00",
+      "published_date": "2024-09-26T15:23:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Antibiotics",
+        "Poverty",
+        "Deaths (Fatalities)",
+        "Developing Countries",
+        "Drugs (Pharmaceuticals)",
+        "Shortages",
+        "Medicine and Health",
+        "Drug Resistance (Microbial)",
+        "Infections"
+      ],
+      "org_facet": [
+        "General Assembly (UN)",
+        "Lancet, The (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/science/26UN-GERMS/26UN-GERMS-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mycobacterium tuberculosis, a type of bacteria that causes tuberculosis, has become increasingly resistant to antibiotics.",
+          "copyright": "James Cavallini/BSIP/Universal Images Group, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/science/26UN-GERMS/26UN-GERMS-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mycobacterium tuberculosis, a type of bacteria that causes tuberculosis, has become increasingly resistant to antibiotics.",
+          "copyright": "James Cavallini/BSIP/Universal Images Group, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/science/26UN-GERMS/26UN-GERMS-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mycobacterium tuberculosis, a type of bacteria that causes tuberculosis, has become increasingly resistant to antibiotics.",
+          "copyright": "James Cavallini/BSIP/Universal Images Group, via Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "A Patchwork of Cannabis Laws Creates Health Risks, Study Finds",
+      "abstract": "A new report calls for public education and closing of legal loopholes to keep the public safe.",
+      "url": "https://www.nytimes.com/2024/09/26/science/cannabis-laws-health-risk.html",
+      "uri": "nyt://article/69ae8b34-dd0c-5d04-883f-b4172273bbe2",
+      "byline": "By Matt Richtel",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T11:04:28-04:00",
+      "created_date": "2024-09-26T11:00:22-04:00",
+      "published_date": "2024-09-26T11:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Marijuana",
+        "Cannabis Foods and Products",
+        "States (US)",
+        "Law and Legislation",
+        "Regulation and Deregulation of Industry",
+        "Drug Abuse and Traffic",
+        "your-feed-science",
+        "your-feed-health"
+      ],
+      "org_facet": [
+        "National Academies of Sciences, Engineering and Medicine"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26academies-gclk/26academies-gclk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Even as a patchwork of laws and regulations have emerged, the potency of cannabis products has surged.",
+          "copyright": "Cindy Schultz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26academies-gclk/26academies-gclk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Even as a patchwork of laws and regulations have emerged, the potency of cannabis products has surged.",
+          "copyright": "Cindy Schultz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26academies-gclk/26academies-gclk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Even as a patchwork of laws and regulations have emerged, the potency of cannabis products has surged.",
+          "copyright": "Cindy Schultz for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "A Remote Alaskan Island Is on High Alert for a Rat",
+      "abstract": "Wildlife experts fear that a rat could disrupt the island’s delicate balance, so they are pulling out all the stops.",
+      "url": "https://www.nytimes.com/2024/09/25/us/rat-alaska-saint-paul-island.html",
+      "uri": "nyt://article/bf6a397b-55d9-51ba-85e9-5ced31ffff39",
+      "byline": "By Amanda Holpuch",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:10:48-04:00",
+      "created_date": "2024-09-25T15:06:04-04:00",
+      "published_date": "2024-09-25T15:06:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Invasive Species",
+        "Animal Behavior",
+        "Rats",
+        "Animals",
+        "Conservation of Resources",
+        "Hunting and Trapping",
+        "Fish and Other Marine Life",
+        "Coast Erosion",
+        "Foxes",
+        "Birds",
+        "Dogs"
+      ],
+      "org_facet": [
+        "Agriculture Department",
+        "Fish and Wildlife Service"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Alaska",
+        "Bering Sea",
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/multimedia/24xp-rat/24xp-rat-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1360,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "St. Paul Island has been called the Galápagos of the North because of the many species of birds and mammals that call it home.",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/multimedia/24xp-rat/24xp-rat-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "St. Paul Island has been called the Galápagos of the North because of the many species of birds and mammals that call it home.",
+          "copyright": "Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/01/multimedia/24xp-rat/24xp-rat-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "St. Paul Island has been called the Galápagos of the North because of the many species of birds and mammals that call it home.",
+          "copyright": "Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Lawmakers Seek Inquiry of F.D.A. Device Chief’s Potential Conflicts",
+      "abstract": "A top medical device regulator’s work overlapped at times with his wife’s legal representation of clients with business before the agency.",
+      "url": "https://www.nytimes.com/2024/09/25/health/fda-medical-devices-ethics-jeffrey-shuren.html",
+      "uri": "nyt://article/3b32dca8-7828-5f75-a001-5b66af57aaa2",
+      "byline": "By Christina Jewett",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T22:29:44-04:00",
+      "created_date": "2024-09-25T10:00:03-04:00",
+      "published_date": "2024-09-25T10:00:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Regulation and Deregulation of Industry",
+        "Ethics and Official Misconduct",
+        "Conflicts of Interest",
+        "Medical Devices",
+        "Inspectors General",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/08/21/multimedia/25FDA-SHUREN/25FDA-SHUREN-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jeffrey E. Shuren will retire from the F.D.A. later this year.",
+          "copyright": "Senate.gov"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/08/21/multimedia/25FDA-SHUREN/25FDA-SHUREN-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jeffrey E. Shuren will retire from the F.D.A. later this year.",
+          "copyright": "Senate.gov"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/08/21/multimedia/25FDA-SHUREN/25FDA-SHUREN-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jeffrey E. Shuren will retire from the F.D.A. later this year.",
+          "copyright": "Senate.gov"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "The Evolution Garden, a Green Journey Through Geologic History",
+      "abstract": "This newly redesigned space at the Natural History Museum in London traces 540 million years of the past while creating an outdoor laboratory for the future.",
+      "url": "https://www.nytimes.com/2024/09/25/arts/design/london-natural-history-museum.html",
+      "uri": "nyt://article/47eabaf7-bb07-51ff-be04-acfad46b8c40",
+      "byline": "By Keridwen Cornelius",
+      "item_type": "Article",
+      "updated_date": "2024-09-25T10:52:25-04:00",
+      "created_date": "2024-09-25T05:03:15-04:00",
+      "published_date": "2024-09-25T05:03:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Museums",
+        "Restoration and Renovation",
+        "Gardens and Gardening",
+        "Biodiversity",
+        "Paleontology"
+      ],
+      "org_facet": [
+        "Natural History Museum (London)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26sp-museums-london-inyt-04-wmkf/26sp-museums-london-inyt-04-wmkf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fern, a life-size bronze Diplodocus skeleton, looming over the new Evolution Garden at London’s Natural History Museum.",
+          "copyright": "The Trustees of the Natural History Museum, London"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26sp-museums-london-inyt-04-wmkf/26sp-museums-london-inyt-04-wmkf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fern, a life-size bronze Diplodocus skeleton, looming over the new Evolution Garden at London’s Natural History Museum.",
+          "copyright": "The Trustees of the Natural History Museum, London"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26sp-museums-london-inyt-04-wmkf/26sp-museums-london-inyt-04-wmkf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fern, a life-size bronze Diplodocus skeleton, looming over the new Evolution Garden at London’s Natural History Museum.",
+          "copyright": "The Trustees of the Natural History Museum, London"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Study Finds Climate Change Doubled Likelihood of Recent European Floods",
+      "abstract": "Storm Boris dumped record amounts of rain over Central and Eastern Europe this month. A new study found climate change made the deluge more likely.",
+      "url": "https://www.nytimes.com/2024/09/24/climate/climate-change-europe-floods-boris.html",
+      "uri": "nyt://article/50eb219d-459e-511b-a4eb-c6feb9f15fe7",
+      "byline": "By Austyn Gaffney",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:11:04-04:00",
+      "created_date": "2024-09-24T23:00:52-04:00",
+      "published_date": "2024-09-24T23:00:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Floods",
+        "Weather",
+        "Rain",
+        "Deaths (Fatalities)",
+        "Disasters and Emergencies"
+      ],
+      "org_facet": [
+        "World Weather Attribution"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Central Europe"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24cli-europe-floods-ghqj/24cli-europe-floods-ghqj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters on the flooded streets of Lewin Brzeski, Poland, on Sept. 19.",
+          "copyright": "Omar Marques/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24cli-europe-floods-ghqj/24cli-europe-floods-ghqj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters on the flooded streets of Lewin Brzeski, Poland, on Sept. 19.",
+          "copyright": "Omar Marques/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24cli-europe-floods-ghqj/24cli-europe-floods-ghqj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters on the flooded streets of Lewin Brzeski, Poland, on Sept. 19.",
+          "copyright": "Omar Marques/Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "That Message From Your Doctor? It May Have Been Drafted by A.I.",
+      "abstract": "Overwhelmed by queries, physicians are turning to artificial intelligence to correspond with patients. Many have no clue that the replies are software-generated.",
+      "url": "https://www.nytimes.com/2024/09/24/health/ai-patient-messages-mychart.html",
+      "uri": "nyt://article/ddba9681-25ce-5191-9898-7d2c427944a3",
+      "byline": "By Teddy Rosenbluth",
+      "item_type": "Article",
+      "updated_date": "2024-09-26T11:51:02-04:00",
+      "created_date": "2024-09-24T10:09:00-04:00",
+      "published_date": "2024-09-24T10:09:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Doctors",
+        "Hospitals",
+        "Ethics and Official Misconduct",
+        "Privacy",
+        "ChatGPT",
+        "Medicine and Health",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "MyChart (Epic Systems Corp)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/19/multimedia/00ai-mychart-01-gmkh/00ai-mychart-01-gmkh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 976,
+          "width": 1768,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MyChart, the widely used patient portal software, now has a tool powered by A.I. that doctors can use to compose messages to their patients.",
+          "copyright": "MyChart"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/19/multimedia/00ai-mychart-01-gmkh/00ai-mychart-01-gmkh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 401,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MyChart, the widely used patient portal software, now has a tool powered by A.I. that doctors can use to compose messages to their patients.",
+          "copyright": "MyChart"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/19/multimedia/00ai-mychart-01-gmkh/00ai-mychart-01-gmkh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MyChart, the widely used patient portal software, now has a tool powered by A.I. that doctors can use to compose messages to their patients.",
+          "copyright": "MyChart"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Punching Octopuses Lead Fish on Hunting Parties",
+      "abstract": "Octopuses and fish are routinely seen working together on the ocean floor, and now scientists say that the cephalopods are the leaders of the pack.",
+      "url": "https://www.nytimes.com/2024/09/23/science/octopuses-punching-fish.html",
+      "uri": "nyt://article/e1e6023f-d3ca-5d41-909a-c4be2a944fd1",
+      "byline": "By Elizabeth Preston",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:46:49-04:00",
+      "created_date": "2024-09-23T11:00:12-04:00",
+      "published_date": "2024-09-23T11:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "Trilobites",
+      "des_facet": [
+        "Octopus",
+        "Animal Behavior",
+        "Fish and Other Marine Life",
+        "Research",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "Nature Ecology & Evolution (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Red Sea"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23TB-PUNCHING-OCTOPUSES-gvmw/23TB-PUNCHING-OCTOPUSES-gvmw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A blacktip grouper, right, and a gold-saddle goatfish on a hunting trip with a big blue octopus.",
+          "copyright": "Eduardo Sampaio and Simon Gingins"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23TB-PUNCHING-OCTOPUSES-gvmw/23TB-PUNCHING-OCTOPUSES-gvmw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A blacktip grouper, right, and a gold-saddle goatfish on a hunting trip with a big blue octopus.",
+          "copyright": "Eduardo Sampaio and Simon Gingins"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23TB-PUNCHING-OCTOPUSES-gvmw/23TB-PUNCHING-OCTOPUSES-gvmw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A blacktip grouper, right, and a gold-saddle goatfish on a hunting trip with a big blue octopus.",
+          "copyright": "Eduardo Sampaio and Simon Gingins"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Was It Really a Hot Zone Summer?",
+      "abstract": "From Covid to dengue, viral outbreaks seemed to be popping up all over. But maybe Americans are just more attuned to threats now.",
+      "url": "https://www.nytimes.com/2024/09/23/health/virus-outbreaks-summer.html",
+      "uri": "nyt://article/4d47d1c4-9d59-5ef6-b351-df56cac09f48",
+      "byline": "By Apoorva Mandavilli",
+      "item_type": "Article",
+      "updated_date": "2024-09-23T11:35:06-04:00",
+      "created_date": "2024-09-23T10:48:17-04:00",
+      "published_date": "2024-09-23T10:48:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Mosquitoes",
+        "Disease Rates",
+        "Encephalitis",
+        "Dengue Fever",
+        "Global Warming",
+        "Epidemics",
+        "Summer (Season)",
+        "Viruses"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Laredo (Tex)",
+        "St Louis (Mo)",
+        "Nuevo Laredo (Mexico)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/science/23hot-zone-summer-01/23hot-zone-summer-01-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mosquitoes sickened some Americans with infections like dengue, malaria, West Nile virus and Eastern equine encephalitis. But apart from dengue, the outbreaks were not particularly bad.",
+          "copyright": "Jon Cherry/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/science/23hot-zone-summer-01/23hot-zone-summer-01-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mosquitoes sickened some Americans with infections like dengue, malaria, West Nile virus and Eastern equine encephalitis. But apart from dengue, the outbreaks were not particularly bad.",
+          "copyright": "Jon Cherry/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/science/23hot-zone-summer-01/23hot-zone-summer-01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mosquitoes sickened some Americans with infections like dengue, malaria, West Nile virus and Eastern equine encephalitis. But apart from dengue, the outbreaks were not particularly bad.",
+          "copyright": "Jon Cherry/Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "The World Is a Mess. That Makes the Climate Crisis Harder to Solve.",
+      "abstract": "A transformed China, conflicts in Ukraine and elsewhere, and intractable clashes over money have pushed the prospects of progress to a new low.",
+      "url": "https://www.nytimes.com/2024/09/23/climate/climate-diplomacy-fracture.html",
+      "uri": "nyt://article/1c284a17-85f4-526e-afb1-68aa714ec2af",
+      "byline": "By Somini Sengupta and Max Bearak",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:40:48-04:00",
+      "created_date": "2024-09-23T05:03:33-04:00",
+      "published_date": "2024-09-23T05:03:33-04:00",
+      "material_type_facet": "",
+      "kicker": "News Analysis",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "International Relations",
+        "Politics and Government",
+        "International Trade and World Market",
+        "Russian Invasion of Ukraine (2022)",
+        "United Nations Framework Convention on Climate Change"
+      ],
+      "org_facet": [
+        "United Nations"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23cli-climate-fractures-01-bwfj/23cli-climate-fractures-01-bwfj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The United Nations headquarters in Manhattan, where the General Assembly begins on Monday.",
+          "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23cli-climate-fractures-01-bwfj/23cli-climate-fractures-01-bwfj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The United Nations headquarters in Manhattan, where the General Assembly begins on Monday.",
+          "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23cli-climate-fractures-01-bwfj/23cli-climate-fractures-01-bwfj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The United Nations headquarters in Manhattan, where the General Assembly begins on Monday.",
+          "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "They’ve Got a Plan to Fight Global Warming. It Could Alter the Oceans.",
+      "abstract": "By tweaking the chemistry of rivers and oceans, humans could remove billions of tons of carbon dioxide from the air. But huge challenges loom.",
+      "url": "https://www.nytimes.com/2024/09/23/climate/oceans-rivers-carbon-removal.html",
+      "uri": "nyt://article/7fde1996-d185-5781-bd34-1f8dffe80752",
+      "byline": "By Brad Plumer, Raymond Zhong and Greta Rybus",
+      "item_type": "Article",
+      "updated_date": "2024-09-27T15:11:40-04:00",
+      "created_date": "2024-09-23T03:00:28-04:00",
+      "published_date": "2024-09-23T03:00:28-04:00",
+      "material_type_facet": "",
+      "kicker": "BUYING TIME",
+      "des_facet": [
+        "Carbon Capture and Sequestration",
+        "Rivers",
+        "Global Warming",
+        "Geoengineering",
+        "Carbon Dioxide",
+        "Fish and Other Marine Life",
+        "Oceans and Seas",
+        "Research",
+        "Start-ups",
+        "Greenhouse Gas Emissions"
+      ],
+      "org_facet": [
+        "CarbonRun"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Nova Scotia (Canada)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00cli-buyingtime-oceans-stillpromo-lcjq/00cli-buyingtime-oceans-promo-lcjq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00cli-buyingtime-oceans-stillpromo-lcjq/00cli-buyingtime-oceans-promo-lcjq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00cli-buyingtime-oceans-stillpromo-lcjq/00cli-buyingtime-oceans-promo-lcjq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Greta Rybus for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "This Shark Lives 400 Years. Its DNA May Explain Why.",
+      "abstract": "Scientists have mapped the genome of the Greenland shark, which could offer clues to the animal’s extreme longevity.",
+      "url": "https://www.nytimes.com/2024/09/22/science/greenland-sharks-genetics.html",
+      "uri": "nyt://article/cb034c16-17e9-56ac-b482-775269edbe3c",
+      "byline": "By Jonathan Moens",
+      "item_type": "Article",
+      "updated_date": "2024-09-24T13:48:06-04:00",
+      "created_date": "2024-09-22T05:01:11-04:00",
+      "published_date": "2024-09-22T05:01:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sharks",
+        "Genetics and Heredity",
+        "Longevity",
+        "Animal Behavior",
+        "DNA (Deoxyribonucleic Acid)",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "bioRxiv"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Greenland"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/GREENLAND-SHARKS-01-zvhb/GREENLAND-SHARKS-01-zvhb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a new study, researchers identified a network of 81 genes that were found only in Greenland sharks and are known to play a role in DNA repair.",
+          "copyright": "WaterFrame/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/GREENLAND-SHARKS-01-zvhb/GREENLAND-SHARKS-01-zvhb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a new study, researchers identified a network of 81 genes that were found only in Greenland sharks and are known to play a role in DNA repair.",
+          "copyright": "WaterFrame/Alamy"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/24/multimedia/GREENLAND-SHARKS-01-zvhb/GREENLAND-SHARKS-01-zvhb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a new study, researchers identified a network of 81 genes that were found only in Greenland sharks and are known to play a role in DNA repair.",
+          "copyright": "WaterFrame/Alamy"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Earth’s Fall Equinox Ushers In Astronomical Autumn",
+      "abstract": "During an equinox, places around the globe experience nearly equal amounts of daytime and nighttime. The second occurrence this year happens on Sunday.",
+      "url": "https://www.nytimes.com/article/fall-equinox-autumn.html",
+      "uri": "nyt://article/4b6f33b8-5928-5753-9b46-344422dd724f",
+      "byline": "By Katrina Miller",
+      "item_type": "Article",
+      "updated_date": "2024-09-25T15:50:52-04:00",
+      "created_date": "2024-09-21T12:00:10-04:00",
+      "published_date": "2024-09-21T12:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Space and Astronomy",
+        "Autumn (Season)",
+        "Earth",
+        "Sun"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/science/21equinox/21equinox-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Equinoxes occur when Earth reaches a point in its orbit where the sun shines directly on the Equator, occurring twice each year, in March and September",
+          "copyright": "NASA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/science/21equinox/21equinox-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Equinoxes occur when Earth reaches a point in its orbit where the sun shines directly on the Equator, occurring twice each year, in March and September",
+          "copyright": "NASA"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/science/21equinox/21equinox-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Equinoxes occur when Earth reaches a point in its orbit where the sun shines directly on the Equator, occurring twice each year, in March and September",
+          "copyright": "NASA"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Drug Overdose Deaths Are Dropping. The Reasons Are Not Perfectly Clear.",
+      "abstract": "The decrease across the country is a major breakthrough in efforts to reverse the effects of fentanyl. Researchers and health officials say there is no easy explanation for the trend.",
+      "url": "https://www.nytimes.com/2024/09/21/us/politics/drug-overdose-deaths-decrease.html",
+      "uri": "nyt://article/3a08aa57-f34c-5ed9-b28f-e51450834591",
+      "byline": "By Noah Weiland",
+      "item_type": "Article",
+      "updated_date": "2024-09-22T11:23:08-04:00",
+      "created_date": "2024-09-21T05:04:30-04:00",
+      "published_date": "2024-09-21T05:04:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Drug Abuse and Traffic",
+        "Deaths (Fatalities)",
+        "Naloxone (Drug)",
+        "Fentanyl",
+        "Buprenorphine (Drug)",
+        "Opioids and Opiates"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21dc-overdoses-jlpg/21dc-overdoses-jlpg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Data suggests that some of the tools used to combat opioid overdoses, like the overdose-reversing medication Narcan, were having a significant impact.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21dc-overdoses-jlpg/21dc-overdoses-jlpg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Data suggests that some of the tools used to combat opioid overdoses, like the overdose-reversing medication Narcan, were having a significant impact.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21dc-overdoses-jlpg/21dc-overdoses-jlpg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Data suggests that some of the tools used to combat opioid overdoses, like the overdose-reversing medication Narcan, were having a significant impact.",
+          "copyright": "Hilary Swift for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "The Squishy Truth About Why You’re Seeing Fewer Spotted Lanternflies",
+      "abstract": "Your stomping may have helped trim this invasive insect’s population. But experts say other factors probably explain their reduced numbers around New York City.",
+      "url": "https://www.nytimes.com/2024/09/21/science/spotted-lanternfly-nyc.html",
+      "uri": "nyt://article/6543b0fa-5164-5be1-a520-f7ad15a40e69",
+      "byline": "By Emily Anthes",
+      "item_type": "Article",
+      "updated_date": "2024-09-21T23:30:52-04:00",
+      "created_date": "2024-09-21T05:03:05-04:00",
+      "published_date": "2024-09-21T05:03:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Spotted Lanternflies",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "Brooklyn Botanic Garden"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21LANTERNFLIES-04-wlgc/21LANTERNFLIES-04-wlgc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“We like to think that we’re making a difference by stomping on the spotted lanternfly,” Brian Eshenaur, an invasive species specialist, said.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21LANTERNFLIES-04-wlgc/21LANTERNFLIES-04-wlgc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“We like to think that we’re making a difference by stomping on the spotted lanternfly,” Brian Eshenaur, an invasive species specialist, said.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21LANTERNFLIES-04-wlgc/21LANTERNFLIES-04-wlgc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“We like to think that we’re making a difference by stomping on the spotted lanternfly,” Brian Eshenaur, an invasive species specialist, said.",
+          "copyright": "Hiroko Masuike/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "What We Know (and Don’t Know) About ‘Forever Chemicals’ in Food",
+      "abstract": "There’s a growing understanding of the health threats of PFAS chemicals in what we eat and drink.",
+      "url": "https://www.nytimes.com/2024/09/21/climate/pfas-chemicals-food-health.html",
+      "uri": "nyt://article/fd80dde1-7e9b-5e05-bef5-7521a979e32e",
+      "byline": "By Hiroko Tabuchi",
+      "item_type": "Article",
+      "updated_date": "2024-09-23T23:49:02-04:00",
+      "created_date": "2024-09-21T05:02:03-04:00",
+      "published_date": "2024-09-21T05:02:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "PFAS (Per- and Polyfluoroalkyl Substances)",
+        "Hazardous and Toxic Substances",
+        "Pollution",
+        "Agriculture and Farming",
+        "Food",
+        "Sewers and Sewage",
+        "Fertilizer",
+        "Environment",
+        "Medicine and Health",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "PFAS-contaminated beef from a farm in Maine. ",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "PFAS-contaminated beef from a farm in Maine. ",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "PFAS-contaminated beef from a farm in Maine. ",
+          "copyright": "Greta Rybus for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Her Children Were Sick. Was It ‘Forever Chemicals’ on the Family Farm?",
+      "abstract": "Pastures were fertilized with toxic sewage decades ago. Nobody knew, until the cows’ milk was tested.",
+      "url": "https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html",
+      "uri": "nyt://article/17940183-1288-527a-8109-ee74c7a11bd3",
+      "byline": "By Hiroko Tabuchi",
+      "item_type": "Article",
+      "updated_date": "2024-09-23T22:58:32-04:00",
+      "created_date": "2024-09-21T05:00:29-04:00",
+      "published_date": "2024-09-21T05:00:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "PFAS (Per- and Polyfluoroalkyl Substances)",
+        "Agriculture and Farming",
+        "Beef",
+        "Dairy Products",
+        "Livestock",
+        "Food Contamination and Poisoning",
+        "Hazardous and Toxic Substances",
+        "Sewers and Sewage",
+        "Fertilizer",
+        "Children and Childhood",
+        "Medicine and Health",
+        "Environment",
+        "Water Pollution"
+      ],
+      "org_facet": [
+        "Environmental Protection Agency"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New Hampshire",
+        "Maine"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Greta Rybus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Greta Rybus for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Michel Siffre, 85, Dies; Descended Into Caves to Study the Human Mind",
+      "abstract": "He was a pioneer in chronobiology, the study of how our bodies understand the passage of time.",
+      "url": "https://www.nytimes.com/2024/09/20/science/michel-siffre-dead.html",
+      "uri": "nyt://article/57fe6128-cb26-5092-b87e-280052b179a6",
+      "byline": "By Clay Risen",
+      "item_type": "Article",
+      "updated_date": "2024-09-24T00:12:08-04:00",
+      "created_date": "2024-09-20T17:57:26-04:00",
+      "published_date": "2024-09-20T17:57:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Caves and Caverns",
+        "Research",
+        "Biorhythms",
+        "Sleep"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Siffre, Michel"
+      ],
+      "geo_facet": [
+        "France"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/20Siffre-03-hcqg/20Siffre-03-hcqg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michel Siffre waved to well-wishers before beginning a two-month sojourn in the Clamouse cave in France in November 1999.",
+          "copyright": "Philippe Desmazes/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/20Siffre-03-hcqg/20Siffre-03-hcqg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michel Siffre waved to well-wishers before beginning a two-month sojourn in the Clamouse cave in France in November 1999.",
+          "copyright": "Philippe Desmazes/Agence France-Presse &mdash; Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/20Siffre-03-hcqg/20Siffre-03-hcqg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michel Siffre waved to well-wishers before beginning a two-month sojourn in the Clamouse cave in France in November 1999.",
+          "copyright": "Philippe Desmazes/Agence France-Presse &mdash; Getty Images"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Earth Had a Ring 466 Million Years Ago, Study Says",
+      "abstract": "Impact craters found around the Earth that were made around the same time could be linked to debris falling from a ring, a new study suggests.",
+      "url": "https://www.nytimes.com/2024/09/20/science/earth-rings-asteroids-ordovician.html",
+      "uri": "nyt://article/a02d4ea0-0ba7-5161-bb58-2188bdef9f45",
+      "byline": "By Becky Ferreira",
+      "item_type": "Article",
+      "updated_date": "2024-09-23T08:34:52-04:00",
+      "created_date": "2024-09-20T16:39:36-04:00",
+      "published_date": "2024-09-20T16:39:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Earth",
+        "Asteroids",
+        "Meteors and Meteorites",
+        "Space and Astronomy",
+        "Research",
+        "Earth and Planetary Science Letters (Journal)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/science/20sci-earth-rings/20sci-earth-rings-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An artist’s rendering of the Earth surrounded by a temporary ring of debris 466 million years ago.",
+          "copyright": "Oliver Hull"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/science/20sci-earth-rings/20sci-earth-rings-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An artist’s rendering of the Earth surrounded by a temporary ring of debris 466 million years ago.",
+          "copyright": "Oliver Hull"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/20/science/20sci-earth-rings/20sci-earth-rings-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An artist’s rendering of the Earth surrounded by a temporary ring of debris 466 million years ago.",
+          "copyright": "Oliver Hull"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}
